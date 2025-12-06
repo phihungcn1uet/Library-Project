@@ -1,0 +1,24 @@
+# ignore vscode 
+.vscode
+
+#ignore target
+target/
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+# ignore netbean config
+nbproject/
+nb-configuration.xml
+nbactions.xml
+build/
+dist/
+nbbuild/
+
+# security
+.env
